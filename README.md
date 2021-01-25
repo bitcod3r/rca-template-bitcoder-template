@@ -6,7 +6,7 @@ This template is for a very quick kick start. It is based in [Facebook CRA Templ
 
 ## Usage
 Just add the --template flag and call it directly. It is uploaded to the NPM repository.
-`npx create-react-app my-applicacion --template bitcoder-template`
+`npx create-react-app my-applicacion --template bitcoder`
 
 ## Maintenance
 Some parts can be updated according to evolution of the `create-react-app` project. Specially those related to dependencies at `template.json`. 
